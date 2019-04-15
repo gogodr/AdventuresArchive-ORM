@@ -1,0 +1,7 @@
+{
+    "secret": "AdventuresArchiveSuperSecretHashSalt",
+    "database": {
+        "user": "neo4j",
+        "password": "password"
+    }
+}
